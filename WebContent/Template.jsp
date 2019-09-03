@@ -9,5 +9,6 @@
 <body>
 	<h2>Template 파일 입니다.</h2>
 	<h3>내용 추가</h3>
+	<p>내가 추가한 내용</p>
 </body>
 </html>
