@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Template</title>
 </head>
 <body>
 	<h2>Template 파일 입니다.</h2>
